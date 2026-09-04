@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37531.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app", "app\app.csproj", "{D155F626-B62E-4446-A3EC-37742DC07E49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teor", "teor\teor.csproj", "{F0996F5E-C3EA-47E1-85C8-2A4B2C2A85F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D155F626-B62E-4446-A3EC-37742DC07E49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D155F626-B62E-4446-A3EC-37742DC07E49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D155F626-B62E-4446-A3EC-37742DC07E49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D155F626-B62E-4446-A3EC-37742DC07E49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0996F5E-C3EA-47E1-85C8-2A4B2C2A85F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0996F5E-C3EA-47E1-85C8-2A4B2C2A85F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0996F5E-C3EA-47E1-85C8-2A4B2C2A85F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0996F5E-C3EA-47E1-85C8-2A4B2C2A85F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E16B8899-83A6-48C8-B29A-F4BB6939BFF9}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+E:\study\labs\ООПиСП\laba1\app\teor\bin\Debug\net8.0\teor.exe
+E:\study\labs\ООПиСП\laba1\app\teor\bin\Debug\net8.0\teor.deps.json
+E:\study\labs\ООПиСП\laba1\app\teor\bin\Debug\net8.0\teor.runtimeconfig.json
+E:\study\labs\ООПиСП\laba1\app\teor\bin\Debug\net8.0\teor.dll
+E:\study\labs\ООПиСП\laba1\app\teor\bin\Debug\net8.0\teor.pdb
+E:\study\labs\ООПиСП\laba1\app\teor\obj\Debug\net8.0\teor.GeneratedMSBuildEditorConfig.editorconfig
+E:\study\labs\ООПиСП\laba1\app\teor\obj\Debug\net8.0\teor.AssemblyInfoInputs.cache
+E:\study\labs\ООПиСП\laba1\app\teor\obj\Debug\net8.0\teor.AssemblyInfo.cs
+E:\study\labs\ООПиСП\laba1\app\teor\obj\Debug\net8.0\teor.csproj.CoreCompileInputs.cache
+E:\study\labs\ООПиСП\laba1\app\teor\obj\Debug\net8.0\teor.dll
+E:\study\labs\ООПиСП\laba1\app\teor\obj\Debug\net8.0\refint\teor.dll
+E:\study\labs\ООПиСП\laba1\app\teor\obj\Debug\net8.0\teor.pdb
+E:\study\labs\ООПиСП\laba1\app\teor\obj\Debug\net8.0\teor.genruntimeconfig.cache
+E:\study\labs\ООПиСП\laba1\app\teor\obj\Debug\net8.0\ref\teor.dll
