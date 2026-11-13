@@ -1,0 +1,15 @@
+E:\study\labs\ООПиСП\laba10\lab10\lab10\bin\Debug\net8.0\lab10.exe
+E:\study\labs\ООПиСП\laba10\lab10\lab10\bin\Debug\net8.0\lab10.deps.json
+E:\study\labs\ООПиСП\laba10\lab10\lab10\bin\Debug\net8.0\lab10.runtimeconfig.json
+E:\study\labs\ООПиСП\laba10\lab10\lab10\bin\Debug\net8.0\lab10.dll
+E:\study\labs\ООПиСП\laba10\lab10\lab10\bin\Debug\net8.0\lab10.pdb
+E:\study\labs\ООПиСП\laba10\lab10\lab10\obj\Debug\net8.0\lab10.GeneratedMSBuildEditorConfig.editorconfig
+E:\study\labs\ООПиСП\laba10\lab10\lab10\obj\Debug\net8.0\lab10.AssemblyInfoInputs.cache
+E:\study\labs\ООПиСП\laba10\lab10\lab10\obj\Debug\net8.0\lab10.AssemblyInfo.cs
+E:\study\labs\ООПиСП\laba10\lab10\lab10\obj\Debug\net8.0\lab10.csproj.CoreCompileInputs.cache
+E:\study\labs\ООПиСП\laba10\lab10\lab10\obj\Debug\net8.0\lab10.sourcelink.json
+E:\study\labs\ООПиСП\laba10\lab10\lab10\obj\Debug\net8.0\lab10.dll
+E:\study\labs\ООПиСП\laba10\lab10\lab10\obj\Debug\net8.0\refint\lab10.dll
+E:\study\labs\ООПиСП\laba10\lab10\lab10\obj\Debug\net8.0\lab10.pdb
+E:\study\labs\ООПиСП\laba10\lab10\lab10\obj\Debug\net8.0\lab10.genruntimeconfig.cache
+E:\study\labs\ООПиСП\laba10\lab10\lab10\obj\Debug\net8.0\ref\lab10.dll

@@ -57,8 +57,10 @@ class _types
 
         Console.WriteLine("\nint");
         Console.WriteLine("Введите 2 числа int");
-        int integer1 = int.Parse(Console.ReadLine());
+
+        int integer1 = System.Convert.ToInt32((Console.ReadLine()));
         int integer2 = int.Parse(Console.ReadLine());
+
         Console.WriteLine(integer1);
         Console.WriteLine(integer2);
         //беззнаковый int
@@ -204,8 +206,10 @@ class _types
 class strings {
     public void literals()
     {
-        string str1 = "hello";
-        string str2 = "world";
+        string str1 = "КОТ";
+        string str2 = "Котёнок";
+
+
         Console.WriteLine(string.Compare(str1, str2)); //-1 т.к hello меньше 
         Console.WriteLine(string.Compare(str2, str1)); //1 т.к hello меньше, но передана вторым параметром 
         Console.WriteLine(string.Compare(str1, str1)); //0 т.к 
@@ -362,7 +366,7 @@ class arrays
 
 }
 
-    class Cartej
+class Cartej
 {
     public void create()
     {
@@ -379,6 +383,10 @@ class arrays
         //Распаковка
         int var1 = (int)t1.Item1;
         string var2 = (string)t1.Item2;
+
+        //упаковка
+        int v = 42;
+        object ob = v;
 
         var(integer, str1, chr, str2, ul) = t1;
         //integer  = 1 str1 = Hello char = ',' str2 = World ...
@@ -458,9 +466,19 @@ class Program
         var (min, max, sum, first) = GetSmth(arr, hello);
 
         _types task1 = new _types();
+        task1.allVars();
+
         strings task2 = new strings();
+        task2.literals();
+
         arrays task3 = new arrays();
+        task3.ladderArray();
+        
+
         Cartej task4 = new Cartej();
+        task4.create();
+
+
         funct task5 = new funct();
         funct f = new funct();
 

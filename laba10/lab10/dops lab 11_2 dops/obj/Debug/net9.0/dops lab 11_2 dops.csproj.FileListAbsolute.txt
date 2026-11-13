@@ -1,0 +1,15 @@
+E:\study\labs\ООПиСП\laba10\lab10\dops lab 11_2 dops\bin\Debug\net9.0\dops lab 11_2 dops.exe
+E:\study\labs\ООПиСП\laba10\lab10\dops lab 11_2 dops\bin\Debug\net9.0\dops lab 11_2 dops.deps.json
+E:\study\labs\ООПиСП\laba10\lab10\dops lab 11_2 dops\bin\Debug\net9.0\dops lab 11_2 dops.runtimeconfig.json
+E:\study\labs\ООПиСП\laba10\lab10\dops lab 11_2 dops\bin\Debug\net9.0\dops lab 11_2 dops.dll
+E:\study\labs\ООПиСП\laba10\lab10\dops lab 11_2 dops\bin\Debug\net9.0\dops lab 11_2 dops.pdb
+E:\study\labs\ООПиСП\laba10\lab10\dops lab 11_2 dops\obj\Debug\net9.0\dops lab 11_2 dops.GeneratedMSBuildEditorConfig.editorconfig
+E:\study\labs\ООПиСП\laba10\lab10\dops lab 11_2 dops\obj\Debug\net9.0\dops lab 11_2 dops.AssemblyInfoInputs.cache
+E:\study\labs\ООПиСП\laba10\lab10\dops lab 11_2 dops\obj\Debug\net9.0\dops lab 11_2 dops.AssemblyInfo.cs
+E:\study\labs\ООПиСП\laba10\lab10\dops lab 11_2 dops\obj\Debug\net9.0\dops lab 11_2 dops.csproj.CoreCompileInputs.cache
+E:\study\labs\ООПиСП\laba10\lab10\dops lab 11_2 dops\obj\Debug\net9.0\dops lab 11_2 dops.sourcelink.json
+E:\study\labs\ООПиСП\laba10\lab10\dops lab 11_2 dops\obj\Debug\net9.0\dops lab 11_2 dops.dll
+E:\study\labs\ООПиСП\laba10\lab10\dops lab 11_2 dops\obj\Debug\net9.0\refint\dops lab 11_2 dops.dll
+E:\study\labs\ООПиСП\laba10\lab10\dops lab 11_2 dops\obj\Debug\net9.0\dops lab 11_2 dops.pdb
+E:\study\labs\ООПиСП\laba10\lab10\dops lab 11_2 dops\obj\Debug\net9.0\dops lab 11_2 dops.genruntimeconfig.cache
+E:\study\labs\ООПиСП\laba10\lab10\dops lab 11_2 dops\obj\Debug\net9.0\ref\dops lab 11_2 dops.dll

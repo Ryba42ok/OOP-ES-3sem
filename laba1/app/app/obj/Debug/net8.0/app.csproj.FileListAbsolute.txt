@@ -12,3 +12,4 @@ E:\study\labs\ООПиСП\laba1\app\app\obj\Debug\net8.0\refint\app.dll
 E:\study\labs\ООПиСП\laba1\app\app\obj\Debug\net8.0\app.pdb
 E:\study\labs\ООПиСП\laba1\app\app\obj\Debug\net8.0\app.genruntimeconfig.cache
 E:\study\labs\ООПиСП\laba1\app\app\obj\Debug\net8.0\ref\app.dll
+E:\study\labs\ООПиСП\laba1\app\app\obj\Debug\net8.0\app.sourcelink.json

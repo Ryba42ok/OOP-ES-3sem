@@ -1,0 +1,15 @@
+E:\study\labs\ООПиСП\laba6\lab6\del_events dops\bin\Debug\net8.0\del_events dops.exe
+E:\study\labs\ООПиСП\laba6\lab6\del_events dops\bin\Debug\net8.0\del_events dops.deps.json
+E:\study\labs\ООПиСП\laba6\lab6\del_events dops\bin\Debug\net8.0\del_events dops.runtimeconfig.json
+E:\study\labs\ООПиСП\laba6\lab6\del_events dops\bin\Debug\net8.0\del_events dops.dll
+E:\study\labs\ООПиСП\laba6\lab6\del_events dops\bin\Debug\net8.0\del_events dops.pdb
+E:\study\labs\ООПиСП\laba6\lab6\del_events dops\obj\Debug\net8.0\del_events dops.GeneratedMSBuildEditorConfig.editorconfig
+E:\study\labs\ООПиСП\laba6\lab6\del_events dops\obj\Debug\net8.0\del_events dops.AssemblyInfoInputs.cache
+E:\study\labs\ООПиСП\laba6\lab6\del_events dops\obj\Debug\net8.0\del_events dops.AssemblyInfo.cs
+E:\study\labs\ООПиСП\laba6\lab6\del_events dops\obj\Debug\net8.0\del_events dops.csproj.CoreCompileInputs.cache
+E:\study\labs\ООПиСП\laba6\lab6\del_events dops\obj\Debug\net8.0\del_events dops.sourcelink.json
+E:\study\labs\ООПиСП\laba6\lab6\del_events dops\obj\Debug\net8.0\del_events dops.dll
+E:\study\labs\ООПиСП\laba6\lab6\del_events dops\obj\Debug\net8.0\refint\del_events dops.dll
+E:\study\labs\ООПиСП\laba6\lab6\del_events dops\obj\Debug\net8.0\del_events dops.pdb
+E:\study\labs\ООПиСП\laba6\lab6\del_events dops\obj\Debug\net8.0\del_events dops.genruntimeconfig.cache
+E:\study\labs\ООПиСП\laba6\lab6\del_events dops\obj\Debug\net8.0\ref\del_events dops.dll

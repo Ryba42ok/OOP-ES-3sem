@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\study\\labs\\\u041E\u041E\u041F\u0438\u0421\u041F\\laba10\\lab10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E71B8102-0DAB-4F68-829C-DA4666D212E2}|lab10_1indiv\\lab10_1indiv.csproj|e:\\study\\labs\\\u043E\u043E\u043F\u0438\u0441\u043F\\laba10\\lab10\\lab10_1indiv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71B8102-0DAB-4F68-829C-DA4666D212E2}|lab10_1indiv\\lab10_1indiv.csproj|solutionrelative:lab10_1indiv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D16969-B5B1-4F0D-8DF5-BD4ED7FABEAB}|lab1 dop1\\lab1 dop1.csproj|e:\\study\\labs\\\u043E\u043E\u043F\u0438\u0441\u043F\\laba10\\lab10\\lab1 dop1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D16969-B5B1-4F0D-8DF5-BD4ED7FABEAB}|lab1 dop1\\lab1 dop1.csproj|solutionrelative:lab1 dop1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 196,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\study\\labs\\\u041E\u041E\u041F\u0438\u0421\u041F\\laba10\\lab10\\lab1 dop1\\Program.cs",
+              "RelativeDocumentMoniker": "lab1 dop1\\Program.cs",
+              "ToolTip": "E:\\study\\labs\\\u041E\u041E\u041F\u0438\u0421\u041F\\laba10\\lab10\\lab1 dop1\\Program.cs",
+              "RelativeToolTip": "lab1 dop1\\Program.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAUwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T13:21:43.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\study\\labs\\\u041E\u041E\u041F\u0438\u0421\u041F\\laba10\\lab10\\lab10_1indiv\\Program.cs",
+              "RelativeDocumentMoniker": "lab10_1indiv\\Program.cs",
+              "ToolTip": "E:\\study\\labs\\\u041E\u041E\u041F\u0438\u0421\u041F\\laba10\\lab10\\lab10_1indiv\\Program.cs*",
+              "RelativeToolTip": "lab10_1indiv\\Program.cs*",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAUwD4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T13:18:19.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

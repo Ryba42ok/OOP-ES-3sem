@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\study\\labs\\\u041E\u041E\u041F\u0438\u0421\u041F\\laba1\\app\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F0996F5E-C3EA-47E1-85C8-2A4B2C2A85F4}|teor\\teor.csproj|e:\\study\\labs\\\u043E\u043E\u043F\u0438\u0441\u043F\\laba1\\app\\teor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0996F5E-C3EA-47E1-85C8-2A4B2C2A85F4}|teor\\teor.csproj|solutionrelative:teor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D155F626-B62E-4446-A3EC-37742DC07E49}|app\\app.csproj|e:\\study\\labs\\\u043E\u043E\u043F\u0438\u0441\u043F\\laba1\\app\\app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D155F626-B62E-4446-A3EC-37742DC07E49}|app\\app.csproj|solutionrelative:app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0996F5E-C3EA-47E1-85C8-2A4B2C2A85F4}|teor\\teor.csproj|e:\\study\\labs\\\u043E\u043E\u043F\u0438\u0441\u043F\\laba1\\app\\teor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0996F5E-C3EA-47E1-85C8-2A4B2C2A85F4}|teor\\teor.csproj|solutionrelative:teor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,26 +30,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\study\\labs\\\u041E\u041E\u041F\u0438\u0421\u041F\\laba1\\app\\teor\\Program.cs",
               "RelativeDocumentMoniker": "teor\\Program.cs",
               "ToolTip": "E:\\study\\labs\\\u041E\u041E\u041F\u0438\u0421\u041F\\laba1\\app\\teor\\Program.cs",
               "RelativeToolTip": "teor\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-03T16:14:00.291Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\study\\labs\\\u041E\u041E\u041F\u0438\u0421\u041F\\laba1\\app\\app\\Program.cs",
               "RelativeDocumentMoniker": "app\\Program.cs",
               "ToolTip": "E:\\study\\labs\\\u041E\u041E\u041F\u0438\u0421\u041F\\laba1\\app\\app\\Program.cs",
               "RelativeToolTip": "app\\Program.cs",
-              "ViewState": "AgIAALABAAAAAAAAAAAcwNEBAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAPMAAAAAAAAAAAAUwPgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-03T15:01:58.066Z",
               "EditorCaption": ""

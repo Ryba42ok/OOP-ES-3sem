@@ -1,0 +1,15 @@
+E:\study\labs\ООПиСП\laba10\lab10\lab2_ind\bin\Debug\net8.0\lab2_ind.exe
+E:\study\labs\ООПиСП\laba10\lab10\lab2_ind\bin\Debug\net8.0\lab2_ind.deps.json
+E:\study\labs\ООПиСП\laba10\lab10\lab2_ind\bin\Debug\net8.0\lab2_ind.runtimeconfig.json
+E:\study\labs\ООПиСП\laba10\lab10\lab2_ind\bin\Debug\net8.0\lab2_ind.dll
+E:\study\labs\ООПиСП\laba10\lab10\lab2_ind\bin\Debug\net8.0\lab2_ind.pdb
+E:\study\labs\ООПиСП\laba10\lab10\lab2_ind\obj\Debug\net8.0\lab2_ind.GeneratedMSBuildEditorConfig.editorconfig
+E:\study\labs\ООПиСП\laba10\lab10\lab2_ind\obj\Debug\net8.0\lab2_ind.AssemblyInfoInputs.cache
+E:\study\labs\ООПиСП\laba10\lab10\lab2_ind\obj\Debug\net8.0\lab2_ind.AssemblyInfo.cs
+E:\study\labs\ООПиСП\laba10\lab10\lab2_ind\obj\Debug\net8.0\lab2_ind.csproj.CoreCompileInputs.cache
+E:\study\labs\ООПиСП\laba10\lab10\lab2_ind\obj\Debug\net8.0\lab2_ind.sourcelink.json
+E:\study\labs\ООПиСП\laba10\lab10\lab2_ind\obj\Debug\net8.0\lab2_ind.dll
+E:\study\labs\ООПиСП\laba10\lab10\lab2_ind\obj\Debug\net8.0\refint\lab2_ind.dll
+E:\study\labs\ООПиСП\laba10\lab10\lab2_ind\obj\Debug\net8.0\lab2_ind.pdb
+E:\study\labs\ООПиСП\laba10\lab10\lab2_ind\obj\Debug\net8.0\lab2_ind.genruntimeconfig.cache
+E:\study\labs\ООПиСП\laba10\lab10\lab2_ind\obj\Debug\net8.0\ref\lab2_ind.dll

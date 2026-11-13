@@ -1,0 +1,15 @@
+E:\study\labs\ООПиСП\lab12\lab12\lab12\bin\Debug\net8.0\lab12.exe
+E:\study\labs\ООПиСП\lab12\lab12\lab12\bin\Debug\net8.0\lab12.deps.json
+E:\study\labs\ООПиСП\lab12\lab12\lab12\bin\Debug\net8.0\lab12.runtimeconfig.json
+E:\study\labs\ООПиСП\lab12\lab12\lab12\bin\Debug\net8.0\lab12.dll
+E:\study\labs\ООПиСП\lab12\lab12\lab12\bin\Debug\net8.0\lab12.pdb
+E:\study\labs\ООПиСП\lab12\lab12\lab12\obj\Debug\net8.0\lab12.GeneratedMSBuildEditorConfig.editorconfig
+E:\study\labs\ООПиСП\lab12\lab12\lab12\obj\Debug\net8.0\lab12.AssemblyInfoInputs.cache
+E:\study\labs\ООПиСП\lab12\lab12\lab12\obj\Debug\net8.0\lab12.AssemblyInfo.cs
+E:\study\labs\ООПиСП\lab12\lab12\lab12\obj\Debug\net8.0\lab12.csproj.CoreCompileInputs.cache
+E:\study\labs\ООПиСП\lab12\lab12\lab12\obj\Debug\net8.0\lab12.sourcelink.json
+E:\study\labs\ООПиСП\lab12\lab12\lab12\obj\Debug\net8.0\lab12.dll
+E:\study\labs\ООПиСП\lab12\lab12\lab12\obj\Debug\net8.0\refint\lab12.dll
+E:\study\labs\ООПиСП\lab12\lab12\lab12\obj\Debug\net8.0\lab12.pdb
+E:\study\labs\ООПиСП\lab12\lab12\lab12\obj\Debug\net8.0\lab12.genruntimeconfig.cache
+E:\study\labs\ООПиСП\lab12\lab12\lab12\obj\Debug\net8.0\ref\lab12.dll

@@ -1,0 +1,15 @@
+E:\study\labs\ООПиСП\lab9\lab9\dops\obj\Debug\net8.0\dops.GeneratedMSBuildEditorConfig.editorconfig
+E:\study\labs\ООПиСП\lab9\lab9\dops\obj\Debug\net8.0\dops.AssemblyInfoInputs.cache
+E:\study\labs\ООПиСП\lab9\lab9\dops\obj\Debug\net8.0\dops.AssemblyInfo.cs
+E:\study\labs\ООПиСП\lab9\lab9\dops\obj\Debug\net8.0\dops.csproj.CoreCompileInputs.cache
+E:\study\labs\ООПиСП\lab9\lab9\dops\obj\Debug\net8.0\dops.sourcelink.json
+E:\study\labs\ООПиСП\lab9\lab9\dops\bin\Debug\net8.0\dops.exe
+E:\study\labs\ООПиСП\lab9\lab9\dops\bin\Debug\net8.0\dops.deps.json
+E:\study\labs\ООПиСП\lab9\lab9\dops\bin\Debug\net8.0\dops.runtimeconfig.json
+E:\study\labs\ООПиСП\lab9\lab9\dops\bin\Debug\net8.0\dops.dll
+E:\study\labs\ООПиСП\lab9\lab9\dops\bin\Debug\net8.0\dops.pdb
+E:\study\labs\ООПиСП\lab9\lab9\dops\obj\Debug\net8.0\dops.dll
+E:\study\labs\ООПиСП\lab9\lab9\dops\obj\Debug\net8.0\refint\dops.dll
+E:\study\labs\ООПиСП\lab9\lab9\dops\obj\Debug\net8.0\dops.pdb
+E:\study\labs\ООПиСП\lab9\lab9\dops\obj\Debug\net8.0\dops.genruntimeconfig.cache
+E:\study\labs\ООПиСП\lab9\lab9\dops\obj\Debug\net8.0\ref\dops.dll

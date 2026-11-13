@@ -12,3 +12,4 @@ E:\study\labs\ООПиСП\laba1\app\teor\obj\Debug\net8.0\refint\teor.dll
 E:\study\labs\ООПиСП\laba1\app\teor\obj\Debug\net8.0\teor.pdb
 E:\study\labs\ООПиСП\laba1\app\teor\obj\Debug\net8.0\teor.genruntimeconfig.cache
 E:\study\labs\ООПиСП\laba1\app\teor\obj\Debug\net8.0\ref\teor.dll
+E:\study\labs\ООПиСП\laba1\app\teor\obj\Debug\net8.0\teor.sourcelink.json

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37531.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab6", "lab6\lab6.csproj", "{C18E19A9-867F-47DF-A67B-A68C554214A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "del_events dops", "del_events dops\del_events dops.csproj", "{D7A6209E-662F-4C74-B2D7-7FA48BAA6B99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C18E19A9-867F-47DF-A67B-A68C554214A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C18E19A9-867F-47DF-A67B-A68C554214A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C18E19A9-867F-47DF-A67B-A68C554214A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C18E19A9-867F-47DF-A67B-A68C554214A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7A6209E-662F-4C74-B2D7-7FA48BAA6B99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7A6209E-662F-4C74-B2D7-7FA48BAA6B99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7A6209E-662F-4C74-B2D7-7FA48BAA6B99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7A6209E-662F-4C74-B2D7-7FA48BAA6B99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {834202F2-1EAC-4FEF-959D-832A68F60F43}
+	EndGlobalSection
+EndGlobal

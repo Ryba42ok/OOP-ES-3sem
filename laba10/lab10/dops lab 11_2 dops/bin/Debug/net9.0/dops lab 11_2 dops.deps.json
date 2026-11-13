@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "dops lab 11_2 dops/1.0.0": {
+        "runtime": {
+          "dops lab 11_2 dops.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dops lab 11_2 dops/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

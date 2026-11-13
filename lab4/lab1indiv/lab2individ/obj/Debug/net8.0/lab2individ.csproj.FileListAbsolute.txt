@@ -1,0 +1,15 @@
+E:\study\labs\ООПиСП\lab4\lab1indiv\lab2individ\bin\Debug\net8.0\lab2individ.exe
+E:\study\labs\ООПиСП\lab4\lab1indiv\lab2individ\bin\Debug\net8.0\lab2individ.deps.json
+E:\study\labs\ООПиСП\lab4\lab1indiv\lab2individ\bin\Debug\net8.0\lab2individ.runtimeconfig.json
+E:\study\labs\ООПиСП\lab4\lab1indiv\lab2individ\bin\Debug\net8.0\lab2individ.dll
+E:\study\labs\ООПиСП\lab4\lab1indiv\lab2individ\bin\Debug\net8.0\lab2individ.pdb
+E:\study\labs\ООПиСП\lab4\lab1indiv\lab2individ\obj\Debug\net8.0\lab2individ.GeneratedMSBuildEditorConfig.editorconfig
+E:\study\labs\ООПиСП\lab4\lab1indiv\lab2individ\obj\Debug\net8.0\lab2individ.AssemblyInfoInputs.cache
+E:\study\labs\ООПиСП\lab4\lab1indiv\lab2individ\obj\Debug\net8.0\lab2individ.AssemblyInfo.cs
+E:\study\labs\ООПиСП\lab4\lab1indiv\lab2individ\obj\Debug\net8.0\lab2individ.csproj.CoreCompileInputs.cache
+E:\study\labs\ООПиСП\lab4\lab1indiv\lab2individ\obj\Debug\net8.0\lab2individ.sourcelink.json
+E:\study\labs\ООПиСП\lab4\lab1indiv\lab2individ\obj\Debug\net8.0\lab2individ.dll
+E:\study\labs\ООПиСП\lab4\lab1indiv\lab2individ\obj\Debug\net8.0\refint\lab2individ.dll
+E:\study\labs\ООПиСП\lab4\lab1indiv\lab2individ\obj\Debug\net8.0\lab2individ.pdb
+E:\study\labs\ООПиСП\lab4\lab1indiv\lab2individ\obj\Debug\net8.0\lab2individ.genruntimeconfig.cache
+E:\study\labs\ООПиСП\lab4\lab1indiv\lab2individ\obj\Debug\net8.0\ref\lab2individ.dll
