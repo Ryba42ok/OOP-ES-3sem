@@ -1,0 +1,15 @@
+E:\study\labs\ООПиСП\laba2\task1\laba2_tast1\bin\Debug\net8.0\laba2_tast1.exe
+E:\study\labs\ООПиСП\laba2\task1\laba2_tast1\bin\Debug\net8.0\laba2_tast1.deps.json
+E:\study\labs\ООПиСП\laba2\task1\laba2_tast1\bin\Debug\net8.0\laba2_tast1.runtimeconfig.json
+E:\study\labs\ООПиСП\laba2\task1\laba2_tast1\bin\Debug\net8.0\laba2_tast1.dll
+E:\study\labs\ООПиСП\laba2\task1\laba2_tast1\bin\Debug\net8.0\laba2_tast1.pdb
+E:\study\labs\ООПиСП\laba2\task1\laba2_tast1\obj\Debug\net8.0\laba2_tast1.GeneratedMSBuildEditorConfig.editorconfig
+E:\study\labs\ООПиСП\laba2\task1\laba2_tast1\obj\Debug\net8.0\laba2_tast1.AssemblyInfoInputs.cache
+E:\study\labs\ООПиСП\laba2\task1\laba2_tast1\obj\Debug\net8.0\laba2_tast1.AssemblyInfo.cs
+E:\study\labs\ООПиСП\laba2\task1\laba2_tast1\obj\Debug\net8.0\laba2_tast1.csproj.CoreCompileInputs.cache
+E:\study\labs\ООПиСП\laba2\task1\laba2_tast1\obj\Debug\net8.0\laba2_tast1.sourcelink.json
+E:\study\labs\ООПиСП\laba2\task1\laba2_tast1\obj\Debug\net8.0\laba2_tast1.dll
+E:\study\labs\ООПиСП\laba2\task1\laba2_tast1\obj\Debug\net8.0\refint\laba2_tast1.dll
+E:\study\labs\ООПиСП\laba2\task1\laba2_tast1\obj\Debug\net8.0\laba2_tast1.pdb
+E:\study\labs\ООПиСП\laba2\task1\laba2_tast1\obj\Debug\net8.0\laba2_tast1.genruntimeconfig.cache
+E:\study\labs\ООПиСП\laba2\task1\laba2_tast1\obj\Debug\net8.0\ref\laba2_tast1.dll

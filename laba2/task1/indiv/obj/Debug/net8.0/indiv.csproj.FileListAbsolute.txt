@@ -1,0 +1,15 @@
+E:\study\labs\ООПиСП\laba2\task1\indiv\obj\Debug\net8.0\indiv.GeneratedMSBuildEditorConfig.editorconfig
+E:\study\labs\ООПиСП\laba2\task1\indiv\obj\Debug\net8.0\indiv.AssemblyInfoInputs.cache
+E:\study\labs\ООПиСП\laba2\task1\indiv\obj\Debug\net8.0\indiv.AssemblyInfo.cs
+E:\study\labs\ООПиСП\laba2\task1\indiv\obj\Debug\net8.0\indiv.csproj.CoreCompileInputs.cache
+E:\study\labs\ООПиСП\laba2\task1\indiv\obj\Debug\net8.0\indiv.sourcelink.json
+E:\study\labs\ООПиСП\laba2\task1\indiv\bin\Debug\net8.0\indiv.exe
+E:\study\labs\ООПиСП\laba2\task1\indiv\bin\Debug\net8.0\indiv.deps.json
+E:\study\labs\ООПиСП\laba2\task1\indiv\bin\Debug\net8.0\indiv.runtimeconfig.json
+E:\study\labs\ООПиСП\laba2\task1\indiv\bin\Debug\net8.0\indiv.dll
+E:\study\labs\ООПиСП\laba2\task1\indiv\bin\Debug\net8.0\indiv.pdb
+E:\study\labs\ООПиСП\laba2\task1\indiv\obj\Debug\net8.0\indiv.dll
+E:\study\labs\ООПиСП\laba2\task1\indiv\obj\Debug\net8.0\refint\indiv.dll
+E:\study\labs\ООПиСП\laba2\task1\indiv\obj\Debug\net8.0\indiv.pdb
+E:\study\labs\ООПиСП\laba2\task1\indiv\obj\Debug\net8.0\indiv.genruntimeconfig.cache
+E:\study\labs\ООПиСП\laba2\task1\indiv\obj\Debug\net8.0\ref\indiv.dll
